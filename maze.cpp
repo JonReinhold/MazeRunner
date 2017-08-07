@@ -1,3 +1,5 @@
+//TODO: randomize, add enemies/traps
+
 #include <iostream>
 #include <cstdlib>
 #include <windows.h>
