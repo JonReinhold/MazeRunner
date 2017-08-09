@@ -95,7 +95,7 @@ void movement()
 
 	if (x == 30 && y == 15)
 		cout << "You Win!" << endl;	
-
+		cout << "Congratulations, visit https://github.com/JonReinhold to complain that this was too easy." <<endl;
 	xbefore =x;
 	ybefore =y;
 	
