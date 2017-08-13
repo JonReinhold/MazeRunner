@@ -1,4 +1,4 @@
-//TODO: randomize, add enemies/traps
+//TODO: randomize maze layout on startup, add enemies/traps
 
 #include <iostream>
 #include <cstdlib>
