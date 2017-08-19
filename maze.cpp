@@ -1,5 +1,3 @@
-//TODO: randomize maze layout on startup, add enemies/traps
-
 #include <iostream>
 #include <cstdlib>
 #include <windows.h>
