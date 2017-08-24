@@ -1,1 +1,2 @@
-Simple maze game. a.exe is a compiled version.
+Simple maze game. 
+a.exe is a compiled version. 
