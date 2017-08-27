@@ -1,2 +1,2 @@
 Simple maze game. 
-a.exe is a compiled version. 
+Reach the end to win.
