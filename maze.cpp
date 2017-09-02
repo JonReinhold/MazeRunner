@@ -33,9 +33,7 @@ void movement();
 int main()
 {     
 	drawMaze();
-	
 	movement();
-
 	system("pause");
 	return 0;
 
@@ -71,8 +69,7 @@ void gotoXY(int x, int y)
 	COORD coord;
 	coord.X = x;
 	coord.Y =y;
-	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);
-	
+	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);	
 }
 
 void movement()
