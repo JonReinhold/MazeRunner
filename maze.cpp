@@ -109,6 +109,5 @@ void movement()
 		y = ybefore;
 	}
 	}
-
 }
 
